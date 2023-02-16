@@ -5,16 +5,24 @@ Hi, I am Dmitry from Moscow. Here you can find part of my projects &w&
 * Open-source enthusiast and maintainer :desktop_computer:
 * Love to help people :electric_plug:
 * I do like automation 🤖
-* I work on [Sophia Script](https://github.com/farag2/Sophia-Script-for-Windows), the largest PowerShell module for fine-tuning `Windows 10` & `Windows 11` on GitHub, and its' GUI version, [SophiApp](https://github.com/Sophia-Community/SophiApp) :keyboard: 
+* I work on different projects :keyboard: 
 
+#Technologies
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Toor3-14)](https://github.com/Toor3-14/github-readme-stats)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Windows](https://img.shields.io/badge/Windows%2011-0078D6.svg?&style=for-the-badge&logo=windows%2011&logoColor=white)
-![VSCode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139.svg?&style=for-the-badge&logo=firefox&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
