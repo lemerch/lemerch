@@ -1,7 +1,3 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=farag2&theme=darkhub&no-bg=true&no-frame=true)
-
-![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-
 Hi, I am Dmitry from Moscow. Passionate about Microsoft services, Windows & PowerShell. Learning technologies that I found interesting.
 
 [telegram-news-badge]: https://img.shields.io/badge/Sophia%20News-Telegram-blue?style=flat&logo=Telegram
