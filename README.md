@@ -1,4 +1,4 @@
-### 👋 Hi, I am Dmitry from Moscow. Here you can find part of my projects -w-
+### 👋 Hi, I am Dmitry from Moscow. Here you can find part of my projects 🤖
   
 [![Gmail](https://img.shields.io/badge/-toorkeor@gmail.com-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:toorkeor@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/redltoor)
 
