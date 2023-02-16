@@ -2,7 +2,8 @@ Hi, I am Dmitry from Moscow. Passionate about Microsoft services, Windows & Powe
 
 [telegram]: https://t.me/redltoor
 
-[![Gmail](https://google.com)] [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/redltoor)
+  
+[![Gmail](https://img.shields.io/badge/-nefedovds@ya.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:toorkeor@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/redltoor)
 
 * Open-source enthusiast and maintainer :desktop_computer:
 * Love to help people :electric_plug:
