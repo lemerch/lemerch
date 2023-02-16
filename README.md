@@ -17,3 +17,5 @@ Hi, I am Dmitry from Moscow. Here you can find part of my projects &w&
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139.svg?&style=for-the-badge&logo=firefox&logoColor=white)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
