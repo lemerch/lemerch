@@ -1,5 +1,4 @@
-Hi, I am Dmitry from Moscow. Passionate about Microsoft services, Windows & PowerShell. Learning technologies that I found interesting.
-
+Hi, I am Dmitry from Moscow. Here you can find part of my projects &w&
 [telegram]: https://t.me/redltoor
 
   
