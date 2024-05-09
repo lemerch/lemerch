@@ -1,5 +1,7 @@
-![cake](IMG_20240509_223243.jpg)
-
+```
+The cake is not a lie! 
+======================
+```
 
 [![Gmail](https://img.shields.io/badge/-dmitrykeof@gmail.com-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:dmitrykeof@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/redltoor)
 
